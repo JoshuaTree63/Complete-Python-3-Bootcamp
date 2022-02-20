@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T12:20:42.875Z" agent="5.0 (Windows)" etag="FX33Hu20W9CFmr2ch2Z7" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T12:21:01.583Z" agent="5.0 (Windows)" etag="VeOnvnRDX2x9ceNm36nJ" version="16.6.1" type="github">
   <diagram id="sSgZ2VfOlHyiMhSfhE_q" name="Page-1">
     <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-3" value="User A" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="384" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="377" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-4" value="&lt;div&gt;MetaMask/&lt;/div&gt;&lt;div&gt;phantom.app/&lt;/div&gt;&lt;div&gt;Trust Wallet/&lt;/div&gt;&lt;div&gt;.....&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="214" y="332.5" width="80" height="80" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="689" y="199.5" width="41" height="41" as="geometry" />
         </mxCell>
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-11" value="&lt;b&gt;conversion from the real asset class world to protocol&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="570" y="130" width="320" height="20" as="geometry" />
+          <mxGeometry x="563" y="130" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-12" value="Exchange (coin VS. Commodity)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="290" y="190" width="254" height="60" as="geometry" />
@@ -49,14 +49,14 @@
         </mxCell>
         <mxCell id="nfaOHaFv4_JS75rRDxIS-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-3" target="L-PwBOsEBAyQJKKIFI6x-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="120" as="sourcePoint" />
-            <mxPoint x="650" y="120" as="targetPoint" />
+            <mxPoint x="443" y="120" as="sourcePoint" />
+            <mxPoint x="584" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfaOHaFv4_JS75rRDxIS-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-3" target="L-PwBOsEBAyQJKKIFI6x-12">
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-3" target="L-PwBOsEBAyQJKKIFI6x-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="434" y="130" as="sourcePoint" />
-            <mxPoint x="601" y="180" as="targetPoint" />
+            <mxPoint x="427" y="130" as="sourcePoint" />
+            <mxPoint x="412.0999999999999" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nfaOHaFv4_JS75rRDxIS-3" value="&lt;b&gt;Crypto wallat&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
