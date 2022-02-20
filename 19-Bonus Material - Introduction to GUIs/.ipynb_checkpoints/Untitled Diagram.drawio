@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T12:21:55.158Z" agent="5.0 (Windows)" etag="S1Aez0fYjTRTOFJyCBKu" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T12:44:11.112Z" agent="5.0 (Windows)" etag="SMBLDw8tfxgtJL3BGE0B" version="16.6.1" type="github">
   <diagram id="sSgZ2VfOlHyiMhSfhE_q" name="Page-1">
-    <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfaOHaFv4_JS75rRDxIS-6" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="470" width="570" height="410" as="geometry" />
+          <mxGeometry x="120" y="500" width="540" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="380.5" as="sourcePoint" />
+            <mxPoint x="387" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="760" width="141" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="485" y="545" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-10" value="API public Wallat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="525" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-11" value="POS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-12" value="Credit Card " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-13" value="POS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="820" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
