@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T12:21:01.583Z" agent="5.0 (Windows)" etag="VeOnvnRDX2x9ceNm36nJ" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T12:21:21.702Z" agent="5.0 (Windows)" etag="2nBrk2P1xLQyL1ni9hR0" version="16.6.1" type="github">
   <diagram id="sSgZ2VfOlHyiMhSfhE_q" name="Page-1">
     <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,6 +61,12 @@
         </mxCell>
         <mxCell id="nfaOHaFv4_JS75rRDxIS-3" value="&lt;b&gt;Crypto wallat&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="209" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="370.5" as="sourcePoint" />
+            <mxPoint x="303" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
