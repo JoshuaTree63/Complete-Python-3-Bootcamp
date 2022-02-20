@@ -1,79 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T12:08:35.646Z" agent="5.0 (Windows)" etag="e8ttpDv9DrQsDJVuCNle" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T12:20:20.892Z" agent="5.0 (Windows)" etag="jrHPZ3h80G53b5vTRVHu" version="16.6.1" type="github">
   <diagram id="sSgZ2VfOlHyiMhSfhE_q" name="Page-1">
     <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-3" value="User A" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-3" value="User A" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="384" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-4" value="&lt;div&gt;MetaMask/&lt;/div&gt;&lt;div&gt;phantom.app/&lt;/div&gt;&lt;div&gt;Trust Wallet/&lt;/div&gt;&lt;div&gt;.....&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="446" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-4" value="&lt;div&gt;MetaMask/&lt;/div&gt;&lt;div&gt;phantom.app/&lt;/div&gt;&lt;div&gt;Trust Wallet/&lt;/div&gt;&lt;div&gt;.....&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="223" y="332.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-5" value="Crypto wallat" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="325" y="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="L-PwBOsEBAyQJKKIFI6x-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="587" y="320" as="sourcePoint" />
-            <mxPoint x="547" y="319.5" as="targetPoint" />
+            <mxPoint x="587" y="220" as="sourcePoint" />
+            <mxPoint x="547" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-8" value="Coin Mint" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-8" value="Coin Mint" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="610" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-9" value="commodity (Gold, Silver, Real Estate)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="730" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-9" value="commodity (Gold, Silver, Real Estate extra)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="730" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/64x64/apps/package_system.png;rounded=0;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="689" y="299.5" width="41" height="41" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/64x64/apps/package_system.png;rounded=0;sketch=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
+          <mxGeometry x="689" y="199.5" width="41" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-11" value="&lt;b&gt;conversion from the real asset class world to protocol&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="320" height="20" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-11" value="&lt;b&gt;conversion from the real asset class world to protocol&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="130" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-12" value="Exchange (coin VS. Commodity)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290" width="254" height="60" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-12" value="Exchange (coin VS. Commodity)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="290" y="190" width="254" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-13" target="L-PwBOsEBAyQJKKIFI6x-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-13" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="591" y="170" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-13" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="270" width="240" height="100" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-14" value="User A - Hold # of Coins that backed by a commidity" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="364.5" y="310" width="125" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-14" value="User A - Hold # of Coins that backed by a commidity" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="363" y="410" width="125" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="L-PwBOsEBAyQJKKIFI6x-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="150" as="sourcePoint" />
-            <mxPoint x="434" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="424" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.528;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="390" as="sourcePoint" />
-            <mxPoint x="424" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="323" y="150" as="sourcePoint" />
-            <mxPoint x="523" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="326" y="249" as="sourcePoint" />
-            <mxPoint x="526" y="249" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.531;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-12" target="L-PwBOsEBAyQJKKIFI6x-14">
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.531;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="L-PwBOsEBAyQJKKIFI6x-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="380" as="sourcePoint" />
-            <mxPoint x="384" y="380" as="targetPoint" />
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="425.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-3" target="L-PwBOsEBAyQJKKIFI6x-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="120" as="sourcePoint" />
+            <mxPoint x="650" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-3" target="L-PwBOsEBAyQJKKIFI6x-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="130" as="sourcePoint" />
+            <mxPoint x="601" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-3" value="&lt;b&gt;Crypto wallat&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="218" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nfaOHaFv4_JS75rRDxIS-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="372.5" as="sourcePoint" />
+            <mxPoint x="308" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
