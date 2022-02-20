@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T11:57:55.832Z" agent="5.0 (Windows)" etag="7A3JqK3P-RlXdCJQz5Wl" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T11:59:02.520Z" agent="5.0 (Windows)" etag="38gEn0ehw5EaNzHhxR20" version="16.6.1" type="github">
   <diagram id="sSgZ2VfOlHyiMhSfhE_q" name="Page-1">
     <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-5" value="Crypto wallat" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="325" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L-PwBOsEBAyQJKKIFI6x-13">
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="319.5" as="sourcePoint" />
-            <mxPoint x="550" y="319.5" as="targetPoint" />
+            <mxPoint x="587" y="320" as="sourcePoint" />
+            <mxPoint x="547" y="319.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-8" value="Coin Mint" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -37,8 +37,8 @@
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-13" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="270" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="L-PwBOsEBAyQJKKIFI6x-14" value="User A" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="430" width="80" height="80" as="geometry" />
+        <mxCell id="L-PwBOsEBAyQJKKIFI6x-14" value="User A - Hold # of Coins that backed by a commidity" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="363" y="410" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="L-PwBOsEBAyQJKKIFI6x-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="L-PwBOsEBAyQJKKIFI6x-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
