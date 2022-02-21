@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T08:22:22.035Z" agent="5.0 (Windows)" etag="Nu3sJjV-sZo4Y5uKtdC8" version="16.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-21T08:22:45.872Z" agent="5.0 (Windows)" etag="7l2yW2IT687ZY5FYgeOV" version="16.6.1" type="github" pages="3">
   <diagram id="1RQBEhvvw9E_qo1DuB-Y" name="Concept">
     <mxGraphModel dx="2782" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -549,7 +549,7 @@
             <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGVZ-SeKXPRPREINvAAI-2" value="&lt;b&gt;Crypto wallat- public API&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="9g_a_yj0oohIC0L0B47q-1">
+        <mxCell id="tGVZ-SeKXPRPREINvAAI-2" value="&lt;b&gt;Crypto wallat- public API with Coins&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="9g_a_yj0oohIC0L0B47q-1">
           <mxGeometry x="383" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tGVZ-SeKXPRPREINvAAI-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9g_a_yj0oohIC0L0B47q-1" source="TfEj6G3VzBdMkW3hKUPI-3" target="tGVZ-SeKXPRPREINvAAI-2">
